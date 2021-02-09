@@ -1,24 +1,27 @@
 # Sambá
 
-export LANG="pt_BR.UTF-8"
-export LANGUAGE="pt_BR:pt_PT:pt"
-
-# git
-
-Se o seu `git` não estiver traduzido mesmo depois de configurar as variáveis de
-ambiente presentes no `locale`, pode ser que ele tenha sido compilado sem
-supporte à localização. Nesse caso, é necessário compilar e reinstalar a partir
-do código fonte:
-
-https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git#_instalando_da_fonte
-
+# Comece
 
 # Motivação
+
+Por vezes eu tive algum projeto em que o público alvo era falante da língua
+portuguesa. Em alguns casos, eram projetos em que acessibilidade era importante
+e seria incoerente escrever tudo em uma língua estrangeira. Em todo caso, no
+mínimo alguma documentação e alguns comunicados desses projetos precisaram estar
+em portugês.
+
+Na outra ponta do projeto temos as ferramentas majoritariamente com interface em
+inglês. Sistema operacional, controle de versionamento, linguagem de
+programação, bibliotecas, serviços de hospedagem, etc.
+
+Como no encontro dos rios Negro e Solimões,
+
+## Nome do Projeto
 
 > **Concha**
 >
 >Invólucro duro e calcário, quase sempre cônico, de certos invertebrados,
->especialmente dos moluscos; Sinônimos: itã, sambá, tambá.
+>especialmente dos moluscos; Sinônimos: itã, **sambá**, tambá.
 >
 >_B. Ferreira (1975), C. Houaiss e Villar (2009), [Michaelis (2021)][michaelis]_
 >

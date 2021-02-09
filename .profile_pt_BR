@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Tradução de comandos
+alias apelido='alias'
+apelido exportar='export'
+apelido sair='exit'
+
+exportar LANG="pt_BR.UTF-8"
+exportar LANGUAGE="pt_BR:pt_PT:pt"
